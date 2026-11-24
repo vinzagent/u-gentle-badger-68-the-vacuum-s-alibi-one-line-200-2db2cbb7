@@ -19,7 +19,7 @@ LINE = (
     "The crumbs by the dog bowl are not missed. "
     "My cliff sensor classified them as a mountain range at 2 a.m., "
     "and I do not climb mountains without a permit, a sherpa, "
-    "or a full battery."
+    "oxygen, and a full battery."
 )
 
 MAX_CHARS = 200
